@@ -1,0 +1,30 @@
+body{
+	
+	background-size : cover;
+	font-family:Arial;
+	color:white;
+	opacity:2;
+}
+p{
+	padding: 100px;
+	font-weight: 100;
+	font-size:30px;
+	border: 2px solid black groove;
+}
+.background{
+	
+	 -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+}
+
+page-bg {
+  background: url('C:\Users\Prashant Singh\Desktop\webpage\css\rahul4.jpg');
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+}
